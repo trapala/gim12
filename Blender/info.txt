@@ -1,0 +1,15 @@
+http://download.tuxfamily.org/makehuman/releases/1.1.1/
+blender_plugins_for_1.1.1.zip
+makeclothes,maketarget, makewalk
+do C:\Program Files\Blender\2.79\scripts\addons
+Open Blender and enable 3 make... files
+Select File > User Preferences. In the window that opens, select the Addons tab
+
+bvh files
+https://accad.osu.edu/research/motion-lab/system-data
+https://accad.osu.edu/sites/accad.osu.edu/files/Famale1_bvh.zip
+Female1_bvh
+Female1_D6_CartWheel
+
+https://www.youtube.com/watch?v=2P1t_nogbGs
+8.50
